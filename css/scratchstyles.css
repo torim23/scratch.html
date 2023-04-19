@@ -1,0 +1,41 @@
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+.emphasizedText{
+    font-style: italic;
+    color: rgb(1, 1, 89)
+}
+
+body{
+    background-color: rgb(238, 228, 228);
+    font-family: 'Courier New', Courier, monospace;
+
+    border: 5px solid black;
+    margin: 30px;
+    padding: 20px;
+    text-align: center;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside ;
+}
+
+nav{
+    font-size: 20px;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.divider{
+    margin-left: 20.5rem;
+    margin-right: 20.5rem;
+}
